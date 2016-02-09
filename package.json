@@ -1,0 +1,19 @@
+{
+  "name": "redux-form-example-simple",
+  "version": "1.0.0",
+  "description": "recreating the example from http://erikras.github.io/redux-form/#/examples/simple",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/intrepion/redux-form-example-simple.git"
+  },
+  "author": "Oliver Forral",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/intrepion/redux-form-example-simple/issues"
+  },
+  "homepage": "https://github.com/intrepion/redux-form-example-simple#readme"
+}
